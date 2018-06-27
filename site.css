@@ -1,0 +1,7 @@
+body background {
+    border: 2px solid black;
+    padding: 25px;
+    background: url(White.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
